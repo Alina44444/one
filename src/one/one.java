@@ -2,6 +2,6 @@ package one;
 
 public class one {
     one (){
-        System.out.println("прод");
+        System.out.println("not not");
     }
 }
